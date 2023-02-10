@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DorksParser_v1", "DorksParser_v1\DorksParser_v1.csproj", "{93D969D1-D00E-4E34-BA77-2FF6618A701A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D969D1-D00E-4E34-BA77-2FF6618A701A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D969D1-D00E-4E34-BA77-2FF6618A701A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D969D1-D00E-4E34-BA77-2FF6618A701A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D969D1-D00E-4E34-BA77-2FF6618A701A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90DB912B-81F7-46DD-8241-7E550DD06173}
+	EndGlobalSection
+EndGlobal
