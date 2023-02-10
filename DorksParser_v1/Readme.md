@@ -1,10 +1,9 @@
-<img align="center" src='https://cdn.discordapp.com/attachments/1037900641164611659/1059001198184779886/pure-black-background-f82588d3.png'>
 
 # ===== Dorks Parser GUI - BASE - =====
 
 <img align="center" src='https://cdn.discordapp.com/attachments/1016996112919441419/1073685651041558598/image.png'>
 
-<h2>RumBurak Stealer 2.0</h2>
+
 
 <h3>Disclaimer</h3>
 
